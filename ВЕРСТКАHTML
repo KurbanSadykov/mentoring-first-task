@@ -1,0 +1,29 @@
+<div class="header" > 
+  <div class="header-left">
+   <div class="header-logo">
+    <img src="assets/Frame.svg" alt="">
+   </div>
+  <nav class="header-nav">
+  <div class="header-nav-item">Главная</div>
+  <div class="header-nav-item"> О компании</div>
+  <div class="header-nav-item">Каталог</div>
+</nav>
+</div>
+<div class="Phone" >
+<img src="assets/Phone.png" alt="номер">
+<span>+7(965)084-29-29</span>
+
+                          </div>
+</div>
+<div>
+  <div class="header1">
+  
+  <img src="assets/light.svg" alt="2321">
+  
+  <span class="header-nav-item1">Каталог</span>
+  <span class="header-nav-item1">Стройметериалы</span>
+  <span class="header-nav-item1">Интсрументы</span>
+  <span class="header-nav-item1">Электрика</span>
+  <span class="header-nav-item1">Интерьер и одежда</span>
+  </div>
+</div>
